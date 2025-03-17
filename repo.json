@@ -1,0 +1,370 @@
+{
+  "name_repo": "ruti",
+  "list_commits": [
+    {
+      "id_commit": 2205266331024,
+      "message": "ruti did it it works!",
+      "date": "08/01/2025 00:52:55",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 1602100839488,
+      "message": "ruti did it it works!",
+      "date": "08/01/2025 00:58:21",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 1897458353552,
+      "message": "ruti did it it works!",
+      "date": "08/01/2025 01:05:40",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 1361891673488,
+      "message": "ruti did it it works!",
+      "date": "08/01/2025 01:06:51",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 2438770574736,
+      "message": "ruti did it it works!",
+      "date": "08/01/2025 01:07:56",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 2707836421520,
+      "message": "ruti did it it works!",
+      "date": "08/01/2025 01:08:39",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 2326763914640,
+      "message": "ruti did it it works!",
+      "date": "08/01/2025 01:17:43",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 2252391547632,
+      "message": "ruti did it it works!",
+      "date": "08/01/2025 19:52:57",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 2034362516208,
+      "message": "ruti did it it works!",
+      "date": "08/01/2025 20:02:31",
+      "list_files": [
+        "CLI.py"
+      ]
+    },
+    {
+      "id_commit": 2722438382992,
+      "message": "ruti did it!!!!!!!!!!!!!!",
+      "date": "09/01/2025 01:22:36",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 2358032630512,
+      "message": "ruti did it it works!",
+      "date": "09/01/2025 01:24:50",
+      "list_files": [
+        "CLI.py"
+      ]
+    },
+    {
+      "id_commit": 2800031400688,
+      "message": "ruti did it it works!",
+      "date": "09/01/2025 01:26:58",
+      "list_files": [
+        "CLI.py"
+      ]
+    },
+    {
+      "id_commit": 2212047782640,
+      "message": "ruti did it it works!",
+      "date": "11/01/2025 22:26:53",
+      "list_files": [
+        "CLI.py"
+      ]
+    },
+    {
+      "id_commit": 2572630852336,
+      "message": "ruti did it it works!",
+      "date": "11/01/2025 22:28:42",
+      "list_files": [
+        "CLI.py"
+      ]
+    },
+    {
+      "id_commit": 2211193717488,
+      "message": "ruti did it it works!",
+      "date": "11/01/2025 22:29:30",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 2116573233904,
+      "message": "ruti did it it works!",
+      "date": "11/01/2025 22:29:55",
+      "list_files": [
+        "CLI.py"
+      ]
+    },
+    {
+      "id_commit": 3064520671984,
+      "message": "ruti did it it works!",
+      "date": "11/01/2025 22:30:50",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 1806857896688,
+      "message": "ruti did it it works!",
+      "date": "11/01/2025 22:32:09",
+      "list_files": [
+        "CLI.py"
+      ]
+    },
+    {
+      "id_commit": 1849760842480,
+      "message": "ruti did it it works!",
+      "date": "11/01/2025 22:33:54",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 1844383286000,
+      "message": "ruti did it it works!",
+      "date": "11/01/2025 22:34:02",
+      "list_files": [
+        "CLI.py"
+      ]
+    },
+    {
+      "id_commit": 1853957898992,
+      "message": "ruti did it it works!",
+      "date": "11/01/2025 22:34:41",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 1944161780464,
+      "message": "ruti did it it works!",
+      "date": "11/01/2025 22:35:50",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 2303052186352,
+      "message": "ruti did it it works!",
+      "date": "11/01/2025 22:35:54",
+      "list_files": [
+        "CLI.py"
+      ]
+    },
+    {
+      "id_commit": 2654836851440,
+      "message": "ruti did it it works!",
+      "date": "11/01/2025 23:00:16",
+      "list_files": [
+        "CLI.py",
+        "Function.py",
+        "Classes.py"
+      ]
+    },
+    {
+      "id_commit": 2726500532976,
+      "message": "ruti did it it works!",
+      "date": "11/01/2025 23:06:59",
+      "list_files": [
+        "CLI.py"
+      ]
+    },
+    {
+      "id_commit": 1688022319856,
+      "message": "ruti did it it works!",
+      "date": "11/01/2025 23:13:53",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 2764418498976,
+      "message": "ruti3",
+      "date": "11/01/2025 23:22:58",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 1988424008432,
+      "message": "ruti3",
+      "date": "11/01/2025 23:23:08",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 1612473664240,
+      "message": "ruti3",
+      "date": "11/01/2025 23:23:18",
+      "list_files": [
+        "CLI.py"
+      ]
+    },
+    {
+      "id_commit": 1665642562288,
+      "message": "ruti3",
+      "date": "12/01/2025 12:26:12",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 1879341892000,
+      "message": "ruti3",
+      "date": "12/01/2025 20:02:58",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 2201516245408,
+      "message": "ruti3",
+      "date": "12/01/2025 20:46:29",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 2213550916000,
+      "message": "ruti3",
+      "date": "12/01/2025 22:07:45",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 2159035515296,
+      "message": "ruti3",
+      "date": "12/01/2025 22:10:46",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 1851254014368,
+      "message": "ruti3",
+      "date": "12/01/2025 22:12:41",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 1784542822816,
+      "message": "ruti3",
+      "date": "12/01/2025 22:13:04",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    },
+    {
+      "id_commit": 2808532861344,
+      "message": "ruti3",
+      "date": "12/01/2025 22:13:39",
+      "list_files": [
+        "Classes.py",
+        "CLI.py",
+        "Function.py"
+      ]
+    }
+  ],
+  "staging": [
+    {
+      "file_name": "Classes.py",
+      "path": ".wit/ruti/Staging",
+      "last_modified": "2025-01-07T22:08:08"
+    },
+    {
+      "file_name": "CLI.py",
+      "path": ".wit/ruti/Staging",
+      "last_modified": "2025-01-07T22:08:08"
+    },
+    {
+      "file_name": "Function.py",
+      "path": ".wit/ruti/Staging",
+      "last_modified": "2025-01-07T22:08:08"
+    }
+  ]
+}
