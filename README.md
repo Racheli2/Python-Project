@@ -1,56 +1,70 @@
+Version-Control Python App 🔄
+A simplified version control system built with Python, inspired by Git principles.
 
-# Python-Project 📚
+📌 Overview
+This project simulates a local version control mechanism that allows users to:
 
-A simple desktop application for managing books using Python, Tkinter, and SQLite.
+Create and manage multiple files
 
-## 🧰 Features
+Track changes and save snapshots (commits)
 
-* Add new books with title, author, year, and ISBN
-* View all books in the database
-* Search for specific entries
-* Update and delete existing records
-* Built with `Tkinter` for the GUI and `sqlite3` for data storage
+View history of changes
 
-## 🖼️ Screenshot
+Restore previous versions of each file
 
-*(You can add a screenshot of the UI here if available)*
+All via a graphical interface built with Tkinter, and data stored using SQLite.
 
-## 📁 Project Structure
+🧰 Technologies Used
+Python 3.x
 
-| File          | Description                              |
-| ------------- | ---------------------------------------- |
-| `frontend.py` | Main GUI logic using Tkinter             |
-| `backend.py`  | Database interaction (CRUD using SQLite) |
-| `main.py`     | Script to launch the app                 |
-| `README.md`   | Project documentation (this file)        |
+Tkinter – for building the GUI
 
-## ▶️ Getting Started
+SQLite3 – for storing files, versions and history
 
-### Prerequisites
+OOP principles – for clear code structure and separation of logic
 
-Make sure Python 3 is installed. No external libraries are required – uses only standard library.
+🖼 Features
+📁 Add new files and edit existing ones
 
-### Run the Application
+💾 Save versions ("commits") with timestamps
 
-```bash
+🕓 Browse history of a file's changes
+
+🔙 Restore to a specific previous version
+
+🎛 Simple and intuitive GUI for interaction
+
+🧠 Project Structure
+bash
+Copy
+Edit
+Python-Project/
+│
+├── backend.py       # Logic for versioning and database
+├── frontend.py      # GUI implementation (Tkinter)
+├── main.py          # Entry point
+└── README.md
+🚀 Getting Started
+Requirements
+Python 3.8+
+
+No external libraries needed
+
+Run the app
+bash
+Copy
+Edit
 python main.py
-```
+The main window will launch with interface to manage files and versions.
 
-The GUI window will open, and you can start adding or managing books.
+🎯 Use Cases
+Educational tool to learn about version control concepts
 
-## 🛠️ How It Works
+Personal version tracking for text files
 
-* `backend.py` manages the SQLite database and performs operations like insert, update, delete, and search.
-* `frontend.py` builds the interface and interacts with the backend.
-* `main.py` connects it all and starts the application.
+Lightweight alternative to Git for local experiments
 
-## ✅ To Do / Future Improvements
+📄 License
+This project is released under the MIT License.
+Use it, modify it, and make it your own.
 
-* Add export/import functionality (CSV, JSON)
-* Add error handling and input validation
-* Improve UI design
-* Package the app into a standalone executable (with PyInstaller or similar)
-
-## 📄 License
-
-This project is open source under the MIT License.
